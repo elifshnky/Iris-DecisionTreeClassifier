@@ -1,7 +1,7 @@
 # Iris-DecisionTreeClassifier
 Python Scikit-learn ile iris data setine k-mean ve decision tree
 
-Uygularken matplotlib'i scatter kmeans dağılımını grafiklemek için ve plot_tree'de decision tree çizdirmek için kullandım.Ayrıca modeli save edip tekrar kullanmak için picle kullanımı içinde bulunmakta .
+Uygularken matplotlib'i scatter kmeans dağılımını grafiklemek için ve plot_tree'de decision tree çizdirmek için kullandım.Ayrıca modeli save edip tekrar kullanmak için picle kullanımı içinde bulunmakta .Anaconda Spyder kullandım.
 Çıktılar:
 
 ![jhujk](https://user-images.githubusercontent.com/44372701/135335876-9b4e8dc6-9283-47f7-a66d-2b23dfa09e60.png)![Screenshot_2](https://user-images.githubusercontent.com/44372701/135335919-ab11acf4-cf9c-4bfd-afc9-32671fcc116b.png)
